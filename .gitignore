@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Dataset
+data/
+
+# Logs
+logs/
+
+# Model Checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
